@@ -53,8 +53,8 @@ Shape-Game/
 ---
 
 ## 📸 Screenshot
+<img width="701" height="797" alt="image" src="https://github.com/user-attachments/assets/1fe0ac7f-4250-4cc8-94cc-27e1e727b952" />
 
-_Add a screenshot of the project here_
 
 ---
 
